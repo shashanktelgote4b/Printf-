@@ -1,0 +1,9 @@
+#include <stdio.h>
+void main()
+{
+    printf("Hello World");
+    printf("My name is Shashank");
+    printf("I am learning C programming");
+    printf("Welcome to my repository!");
+    return 0;
+}
